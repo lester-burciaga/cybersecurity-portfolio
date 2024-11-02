@@ -26,3 +26,5 @@ I have created a cybersecurity portfolio showcasing various tasks and projects c
 | Tcpdump & Wireshark                | `Packet Analyzer`                                                                                                                                   |
 | IDS & SIEM                         | `Intrusion Detection System (IDS): Suricata`, `Security Information and Event Management (SIEM): Chronicle, Splunk`                                 |
 | Automation with Python             | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 Style Guide`                                                                         |
+
+Visit [My Resume Page](https://lester-burciaga.github.io/cybersecurity-portfolio/)
