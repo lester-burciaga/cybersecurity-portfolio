@@ -1,6 +1,12 @@
 # About Me
 
-I am an aspiring Cybersecurity Analyst with over 8 years of IT experience. I possess strong collaboration and time management skills, enabling me to work effectively in teams to address security challenges. I prioritize continuous learning to stay updated with emerging threats and technologies, ensuring I can quickly adapt and enhance system defenses.
+I am a Software Engineer and a growing Cybersecurity Analyst with over
+8 years of experience working in various companies in the IT field. I
+possess strong collaboration and time management skills, enabling me to
+work effectively in teams to address security challenges. I prioritize
+learning and staying updated with new threats and technologies,
+ensuring I can quickly adapt and improve system
+defenses.
 
 I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and cybersecurity. This certification has equipped me with the necessary skills for industry-ready roles. My ultimate goal is to become a Security Analyst. This role aligns with my strong analytical abilities, persistence, eagerness to learn, problem-solving skills, and communication skills, which are essential for addressing security challenges and emerging threats.
 
