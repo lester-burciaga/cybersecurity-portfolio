@@ -1,6 +1,6 @@
 # About Me
 
-I am a Software Engineer and a growing Cybersecurity Analyst with over
+I am a Software Engineer and a certified Cybersecurity Analyst with over
 8 years of experience working in various companies in the IT field. I
 possess strong collaboration and time management skills, enabling me to
 work effectively in teams to address security challenges. I prioritize
@@ -8,11 +8,19 @@ learning and staying updated with new threats and technologies,
 ensuring I can quickly adapt and improve system
 defenses.
 
-I completed the Google IT Support and Cybersecurity Professional Certificate to pursue my passion for technology and cybersecurity. This certification has equipped me with the necessary skills for industry-ready roles. My ultimate goal is to become a Security Analyst. This role aligns with my strong analytical abilities, persistence, eagerness to learn, problem-solving skills, and communication skills, which are essential for addressing security challenges and emerging threats.
+I completed the Cisco Certified Support Technician Cybersecurity and Google IT Support
+and Cybersecurity Professional Certified courses to pursue my passion for technology
+and cybersecurity. These certifications have equipped me with the necessary skills for
+industry-ready roles. My ultimate goal is to become a Security Analyst. This role aligns
+with my strong analytical abilities, persistence, eagerness to learn, problem-solving
+skills, and communication skills, which are essential for addressing security challenges
+and emerging threats.
 
 ## Portfolio
 
-I have created a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided me with insights into:
+I have created a cybersecurity portfolio showcasing various tasks and projects
+completed during my journey to earn the certifications. These courses have provided me
+with insights into:
 
 - **Programming for cybersecurity tasks**
 - **Frameworks and controls for security operations**
